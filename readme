@@ -1,0 +1,9 @@
+Thank you for using my application =]
+
+To Start first download all required dependecies by using
+
+npm install
+
+then place your MongoDB url in .env file
+
+Thats start the server by using node app.js =]
